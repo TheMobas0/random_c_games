@@ -1,2 +1,5 @@
 # random_c_games
-Command promt games made in C for fun
+command promt games made in C for fun
+
+# games list
+## slow snake - slow_snake.c
