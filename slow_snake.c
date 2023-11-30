@@ -244,7 +244,7 @@ int main(){
                 printf("\n\nYOU GOT STUCK DUMBASS\n\n");
                 break;
             }
-            if (score == 99)0{
+            if (score == 99){
                 printf("\n\nYOU WON\n\n");
                 break;
             }
