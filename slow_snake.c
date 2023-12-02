@@ -211,7 +211,7 @@ void move_snake(int l){
 
 void print_display(){
     system("cls");
-    printf("SCORE - %d      AWSD to move\n\n", score);
+    printf("SCORE - %d      WASD to move\n\n", score);
     printf("O--------------------O\n");
     for(int i = 0; i != 10; i++){
         printf("|");
