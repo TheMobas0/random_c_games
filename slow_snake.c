@@ -57,7 +57,7 @@ void write_snake(int p){
     char *snake_head;
     switch(p){
         case 1:
-            snake_head = "U";
+            snake_head = "v";
             break;
         case 2:
             snake_head = "^";
