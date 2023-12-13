@@ -199,7 +199,7 @@ void print_display(){
             printf("%s ", screen[i][j]);
         }
         if(i == 1) printf("|   type coordinate to dig/mark it\n");
-        else if(i == 2) printf("|   E.g. - 'a0'\n");
+        else if(i == 2) printf("|   e.g. - 'a0'\n");
         else if(i == 4) printf("|   type 'dd' to enter digging mode\n");
         else if(i == 5) printf("|   type 'mm' to enter marking mode\n");
         else printf("|\n");
